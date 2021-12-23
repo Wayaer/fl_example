@@ -11,6 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  flutter_curiosity: ^3.3.3
 
 dev_dependencies:
   flutter_test:
@@ -33,11 +34,11 @@ flavorizr:
       android:
         applicationId: "com.fl.example.apple"
       ios:
-        bundleId: "com.fl.example.apple"
+        bundleId: "rex.xichangfabu"
     banana:
       app:
         name: "Banana App"
       android:
         applicationId: "com.fl.example.banana"
       ios:
-        bundleId: "com.fl.example.banana"
+        bundleId: "rex.xichangfabu"
