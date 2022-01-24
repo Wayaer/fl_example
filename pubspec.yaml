@@ -47,9 +47,16 @@ flavorizr:
 fl_flavors:
   android:
     main:
-      target: lin/main.dart
+      target: lib/main.dart
     bate:
-      target: lin/main_beta.dart
+      target: lib/main_beta.dart
   ios:
     main:
-      target: lin/main.dart
+      target: lib/main.dart
+    bate:
+      target: lib/main_beta.dart
+  macos:
+    main:
+      target: lib/main.dart
+    bate:
+      target: lib/main_beta.dart
