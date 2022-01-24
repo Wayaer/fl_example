@@ -11,7 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  flutter_curiosity: ^3.3.3
+  flutter_curiosity: ^3.5.0
+  flutter_waya: ^1.18.2
 
 dev_dependencies:
   flutter_test:
